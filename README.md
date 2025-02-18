@@ -1,4 +1,4 @@
-# Weather and Air Quality and Exchange Rate App
+# Weather and Exchange Rate App
 
 A web application to provide real-time weather, air quality, and currency exchange rate information. The app is designed with a user-friendly interface and integrates several APIs to deliver dynamic and accurate data.
 
